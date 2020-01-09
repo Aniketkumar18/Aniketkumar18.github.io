@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/Quotefancy-1733422-3840x2160"
+  image: "/images/Quotefancy-1733422-3840x2160.jpg"
 ---
 
 Analytical professional with 4+ years of experience in generating and analysing data reports for management. Strategic mindset that focuses on problem solving tasks and maintaining priorities on strict deadlines.
