@@ -3,7 +3,7 @@ title: "Exploring Hacker News Post"
 date: 2019-12-20
 tags: [data wrangling, data science, messy data, data science projects]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/hacker-news.png"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
