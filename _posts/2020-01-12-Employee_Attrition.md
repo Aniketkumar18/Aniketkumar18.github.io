@@ -1,5 +1,13 @@
-HR Analytics - Attrition
-================
+---
+title: "HR Analytics - Attrition"
+date: 2019-12-20
+tags: [data wrangling, data science, messy data, data science projects]
+header:
+  image: "/images/Employee-Attrition.jpg"
+excerpt: "Data Wrangling, Data Science, Messy Data"
+mathjax: "true"
+---
+
 
 ## Problem Statement
 
