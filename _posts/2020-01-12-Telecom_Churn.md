@@ -1,3 +1,14 @@
+---
+title: "Telecom Churn"
+date: 2019-12-20
+tags: [data wrangling, data science, messy data, data science projects, Logistic Regression, Classification, Machine Learning]
+header:
+  image: "/images/customer-churn.jpeg"
+excerpt: "Data Wrangling, Data Science, Messy Data, Logistic Regression, Classification, Machine Learning"
+mathjax: "true"
+---
+
+
 Telecom Churn
 ================
 
